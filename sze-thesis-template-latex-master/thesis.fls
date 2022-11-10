@@ -1,6 +1,6 @@
-PWD c:\szakdoga\snooker_analysis\sze-thesis-template-latex-master
+PWD c:\szakdoga\okosotthon\sze-thesis-template-latex-master
 INPUT C:\Users\Admin\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\szakdoga\snooker_analysis\sze-thesis-template-latex-master\thesis.tex
+INPUT c:\szakdoga\okosotthon\sze-thesis-template-latex-master\thesis.tex
 OUTPUT thesis.log
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
@@ -1055,6 +1055,13 @@ INPUT .\content\okosotthon-bemutatása.tex
 INPUT content\okosotthon-bemutatása.tex
 INPUT .\content\okosotthon-bemutatása.tex
 INPUT content\okosotthon-bemutatása.tex
+INPUT .\figures\han,nan,wan.png
+INPUT .\figures\han,nan,wan.png
+INPUT figures\han,nan,wan.png
+INPUT .\figures\han,nan,wan.png
+INPUT .\figures\han,nan,wan.png
+INPUT .\figures\han,nan,wan.png
+INPUT .\figures\han,nan,wan.png
 INPUT .\figures\Structure-of-smart-home-system.png
 INPUT .\figures\Structure-of-smart-home-system.png
 INPUT figures\Structure-of-smart-home-system.png
